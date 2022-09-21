@@ -9,3 +9,22 @@ Este es la istorua de Yesid Ramirez
 Yesid tiene 31 años y nació en Colombia
  
 Esta noche hablaremos de su historia
+
+____________________________________________________________________________________
+Empezamos otra vez el curso desde cero para hacer todos los ensayos y terminarlo
+
+Practicarlo y enseñarlo, con toda 
+
+Volviendo al curso 
+
+Este es la historia de Yesid Ramirez
+
+Yesid tiene 31 y medio años y nació en Colombia, con ganas de vivir en mas partes
+ 
+Esta noche hablaremos de su historia
+
+En camara parece alto pero no lo es tanto
+
+Algo mas que agregar para prácticar los cambios realizados , se debe guardar, 
+luego add . o add "nombre del archivo.extension" 
+luego commit -m "Mensaje" , buena practica hacerlo
