@@ -30,4 +30,8 @@ luego add . o add "nombre del archivo.extension"
 luego commit -m "Mensaje" , buena practica hacerlo
 ________________________________________________________________
 
-Ensayo apra crear colaborarci贸n con mas gente , Anita platzi tiene 41 a胦s y naci贸 en internet
+Mas ensayo para crear colaborarci贸n con mas gente , Anita platzi tiene 41 a帽os y naci贸 en internet, nose si esta vez si me de esta mierda
+
+
+Como esto no me esta dando seguire otra vez desde aca 
+
