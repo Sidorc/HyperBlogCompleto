@@ -28,3 +28,6 @@ En camara parece alto pero no lo es tanto
 Algo mas que agregar para prácticar los cambios realizados , se debe guardar, 
 luego add . o add "nombre del archivo.extension" 
 luego commit -m "Mensaje" , buena practica hacerlo
+________________________________________________________________
+
+Ensayo apra crear colaborarción con mas gente , Anita platzi tiene 41 a�os y nació en internet
